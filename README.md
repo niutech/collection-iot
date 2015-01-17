@@ -1,4 +1,4 @@
-#Internet of things
+#Internet of Things
 
 > The Internet of Things (IoT) is an important part of the next generation of information technology. As the name suggests, IoT consists of material objects connected to the Internet. It has two meanings: First, the core and foundation of IoT is still the Internet, the Internet is based on the extension and expansion of the network; second, to extend and expand its client to any goods and piece of information. Communication is the exchange of interest. IoT means "connected to the Internet."
 
