@@ -1,38 +1,38 @@
-#物联网
+#Internet of things
 
-> 物联网是新一代信息技术的重要组成部分，其英文名称是：“The Internet of things”。顾名思义，物联网就是物物相连的互联网。这有两层意思：其一，物联网的核心和基础仍然是互联网，是在互联网基础上的延伸和扩展的网络；其二，其用户端延伸和扩展到了任何物品与物品之间，进行信息交换和通信 也就是物物相息。物联网就是“物物相连的互联网”。
+> The Internet of Things (IoT) is an important part of the next generation of information technology. As the name suggests, IoT consists of material objects connected to the Internet. It has two meanings: First, the core and foundation of IoT is still the Internet, the Internet is based on the extension and expansion of the network; second, to extend and expand its client to any goods and piece of information. Communication is the exchange of interest. IoT means "connected to the Internet."
 
-##物联网资料合集
+##IoT Collection
 
-这是一个收集物联网相关资源的repo，包含以下内容:
+This repo is a collection of resources related to IoT, including the following:
 
- - blog 	  相关博客
- - books	  相关书籍
- - framework 相关框架
- - hardware 相关硬件 
- - libraray 相关库
- - os  相关操作系统
- - platform 相关平台
- - protocol 相关协议
- - security  安全
- - technologies 技术栈
- - tools	工具
- - website	网站
+ - blog
+ - books
+ - framework
+ - hardware 
+ - libraray
+ - os
+ - platform
+ - protocol
+ - security
+ - technologies
+ - tools
+ - website
 
-##物联网开发人员数量预测
+##Predicted number of IoT developers
 
 ![IOT Developers](./images/grove.jpg)
 
-##参与
+##Contribute
 
-欢迎加入我们，贡献你的一份力量。
+You are welcome to join us and contribute on your part.
 
-[吊兰-MQTT协议,CoAP协议,WebSocket,物联网协议在线测试](http://mqtt.phodal.com)
+[Chlorophytum - MQTT, CoAP, WebSocket networking protocols online testing platform](https://translate.googleusercontent.com/translate_c?langpair=auto%7Cen&sandbox=0&u=http://mqtt.phodal.com/)
 
 ## License
 
 ![cc](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
-本作品采用[知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/)进行许可。
+This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International License Agreement](http://creativecommons.org/licenses/by-nc/4.0/).
 
-© 2014 [Phodal Huang](http://www.phodal.com). 
+© 2014 [Phodal Huang](http://www.phodal.com). Translated by [Jerzy Głowacki](https://github.com/niutech).
